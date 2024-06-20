@@ -11,5 +11,3 @@ Estos programas no necesitan instalación, solamente ejecutar los archivos .exe
 ## Contratación
 Si quieres contratarme puedes escribirme a melgarparadadiego@gmail.com para consultas
 
-## License
-MIT public lisence
